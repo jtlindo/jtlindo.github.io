@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Smackdown Tag Team Championship History</title>
+  <link rel="stylesheet" href="main.css">
+
+</head>
+
+<body>
+<img src="http://www.wwe.com/f/styles/wwe_large/public/all/2016/09/Smackdown_Tag_Team_Championship--56b4c22440c69722801b765c851ef01f.png" alt="SDTag" width=100%>
+<br>
+<table align=center width=50% border=5>
+  <tr>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SmackdownTitle>World</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/Intercontinental>Intercontinental</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SDTagTeams>Tag Team</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SDWomen>Women's</a></td>
+  </tr>
+</table>
+</br>
+
+<table align="center" width="100%" border="10">
+  <tr>
+    <td align="center" width=10>No.</td>
+    <td align="center" width=450>Wrestler's Image</td>
+    <td align="center" width=150>Team Name</td>
+    <td align="center" width=150>Wrestler's Name</td>
+    <td align="center" width=150>Weeks Held</td>
+    <td align="center" width=150>Event</td>
+    <td align="center">Notes</td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">1</h1></td>
+    <td align="center"><img src=https://vignette.wikia.nocookie.net/wdfe/images/3/3b/Jimmy_Uso_pro--b65a76ef2c85593fc41eb4be2196a9c4.png/revision/latest?cb=20161010093505 width=150 height=150 align="center" alt="Jey"><img src=https://vignette.wikia.nocookie.net/wdfe/images/1/1e/Jey_Uso_pro--cad088bc01bf86c634858c3d6af47b83.png/revision/latest?cb=20161010093500 width="150" height="150" align="center" alt="Big E"></td>
+    <td><h2 align="center">The Usos</h2></td>
+    <td><h3 align="center">Jimmy Uso</h3>
+        <h3 align="center">Jey Uso</h3></td>
+    <td><h3 align="center">36 weeks</h3></td>
+    <td><h3 align="center">Smackdown Episode 1</h3></td>
+    <td><h4 align="center">The Usos defeated American Alpha to become the inaugural champions. Jey Uso pinned Gable after a Superfly Splash.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">2</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Chad_Gable_pro--095b27406ed4c6ef90d038e0fa288cb2.png width=150 height=150 align="center" alt="Karl"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Jason_Jordan_pro--e107e8a45ff2088507f252740189ae40.png width="150" height="150" align="center" alt="Luke"></td>
+    <td><h2 align="center">American Alpha</h2></td>
+    <td><h3 align="center">Chad Gable</h3>
+        <h3 align="center">Jason Jordan</h3></td>
+    <td><h3 align="center">23 weeks</h3></td>
+    <td><h3 align="center">TLC I</h3></td>
+    <td><h4 align="center">Gable pinned Jimmy Uso after a Grand Amplitude.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">3</h1></td>
+    <td height=150 align="center"><img src=https://vignette.wikia.nocookie.net/wdfe/images/3/3b/Jimmy_Uso_pro--b65a76ef2c85593fc41eb4be2196a9c4.png/revision/latest?cb=20161010093505 width=150 height=150 align="center" alt="Jey"><img src=https://vignette.wikia.nocookie.net/wdfe/images/1/1e/Jey_Uso_pro--cad088bc01bf86c634858c3d6af47b83.png/revision/latest?cb=20161010093500 width="150" height="150" align="center" alt="Big E"></td>
+    <td><h2 align="center">The Usos</h2></td>
+    <td><h3 align="center">Jimmy Uso</h3>
+        <h3 align="center">Jey Uso</h3></td>
+    <td><h3 align="center">9 weeks</h3></td>
+    <td><h3 align="center">Payback II</h3></td>
+    <td><h4 align="center">Jey Uso pinned Jordan after a Superfly Splash.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">4</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Kofi_Kingston_pro--9fc5297aa971044b618c6c8da497dad3.png width=150 height=150 align="center" alt="Kofi"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Big_E_pro--b5a756ba82f9474fb7ea858347a45375.png width="150" height="150" align="center" alt="Big E"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Xavier_Woods_pro--9794c202e5591732f7a2ba8c97460ade.png width=150 height=150 align="center" alt="Xavier"></td>
+    <td><h2 align="center">The New Day</h2></td>
+    <td><h3 align="center">Kofi Kingston</h3>
+        <h3 align="center">Big E</h3>
+        <h3 align="center">Xavier Woods</h3>
+    </td>
+    <td><h3 align="center">42 weeks</h3></td>
+    <td><h3 align="center">Bad Blood III</h3></td>
+    <td><h4 align="center">Kingston was also recognized as champion under the Freebird Rule. Woods pinned Jey Uso after a Shining Wizard.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">5</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Scott_Dawson_pro--a8dc07702b7e3e31dfcaf9264deebd7a.png width="150" height="150" align="center" alt="Harper"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Dash_Wilder_pro--9492f7c12f1232b3f3525d95cdd28f5d.png width="150" height="150" align="center" alt="Rowan"></td>
+    <td><h2 align="center">The Revival</h2></td>
+    <td><h3 align="center">Scott Dawson</h3>
+        <h3 align="center">Dash Wilder</h3></td>
+    <td><h3 align="center">32 weeks</h3></td>
+    <td><h3 align="center">Backlash III</h3></td>
+    <td><h4 align="center">Dawson pinned E after a Shatter Machine.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">6</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Randy_Orton_pro--ff5038eeaf214594f0b7311b6364da7a.png width="150" height="150" align="center" alt="Jey"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/12/Heath_Slater_pro--a43f56e9e41df694bcc3f8138ffcee3e.png width="150" height="150" align="center" alt="Jimmy"></td>
+    <td><h2 align="center">Viper Band</h2></td>
+    <td><h3 align="center">Randy Orton</h3>
+        <h3 align="center">Heath Slater</h3></td>
+    <td><h3 align="center">12 weeks</h3></td>
+    <td><h3 align="center">No Mercy III</h3></td>
+    <td><h4 align="center">This was a Tornado Tag Team Match. Slater pinned Dawson after a RKO from Randy Orton.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">7</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Wesley_Blake_pro--20f2e1f7a068b31521a4a3f612ec2ffd.png width="150" height="150" align="center" alt="Finn"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/rd-talent/Profile/Murphy_pro.png width="150" height="150" align="center" alt="Noam"></td>
+    <td><h2 align="center">BAMF</h2></td>
+    <td><h3 align="center">Blake</h3>
+        <h3 align="center">Murphy</h3></td>
+    <td><h3 align="center">22 weeks</h3></td>
+    <td><h3 align="center">TLC III</h3></td>
+    <td><h4 align="center">This was a Tornado Tag Team Match. Murphy pinned Slater after a Frog Splash.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">8</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Tyler_Breeze_pro--21e76f59d210335c37233ae6fc69e5ae.png width="150" height="150" align="center" alt="Rusev"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Fandango_pro--24cce2de422e93100e9af31ce56797d7.png width="150" height="150" align="center" alt="Aiden"></td>
+    <td><h2 align="center">Breezango</h2></td>
+    <td><h3 align="center">Tyler Breeze</h3>
+        <h3 align="center">Fandango</h3></td>
+    <td><h3 align="center">18 weeks</h3></td>
+    <td><h3 align="center">Backlash IV</h3></td>
+    <td><h4 align="center">Breeze pinned Blake after an Unprettier.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">9</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Wesley_Blake_pro--20f2e1f7a068b31521a4a3f612ec2ffd.png width="150" height="150" align="center" alt="Finn"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/rd-talent/Profile/Murphy_pro.png width="150" height="150" align="center" alt="Noam"></td>
+    <td><h2 align="center">BAMF</h2></td>
+    <td><h3 align="center">Blake</h3>
+        <h3 align="center">Murphy</h3></td>
+    <td><h3 align="center">8 weeks</h3></td>
+    <td><h3 align="center">No Mercy IV</h3></td>
+    <td><h4 align="center">Blake pinned Breeze after a Brainbuster.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">10</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Tyler_Breeze_pro--21e76f59d210335c37233ae6fc69e5ae.png width="150" height="150" align="center" alt="Rusev"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Fandango_pro--24cce2de422e93100e9af31ce56797d7.png width="150" height="150" align="center" alt="Aiden"></td>
+    <td><h2 align="center">Breezango</h2></td>
+    <td><h3 align="center">Tyler Breeze</h3>
+        <h3 align="center">Fandango</h3></td>
+    <td><h3 align="center">26 weeks</h3></td>
+    <td><h3 align="center">Bad Blood IV</h3></td>
+    <td><h4 align="center">Fandango pinned Murphy after a Falcon Arrow.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">11</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/10/Eric_Young_Final--5ba65a02e525f39809dd0b5d7be1cbde.png width="150" height="150" align="center" alt="Harper"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Alexander_Wolfe_Final--013f47b644eb2c7f483158fa20feecc5.png width="150" height="150" align="center" alt="Rowan"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/02/Killian_Dain_pro--5fe2585ab1778753cd1016acbc417a72.png width="150" height="150" align="center" alt="Rowan"></td>
+    <td><h2 align="center">SAnitY</h2></td>
+    <td><h3 align="center">Eric Young</h3>
+        <h3 align="center">Alexander Wolfe</h3>
+        <h3 align="center">Killian Dain</h3></td>
+    <td><h3 align="center">22 weeks</h3></td>
+    <td><h3 align="center">Backlash V</h3></td>
+    <td><h4 align="center">Dain pinned Fandango after an Ulster Plantacion.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">12</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/events/2016/06/Seth_Rollins_pro--5c6fc9009ab96f46ced1e2524b9e9dc8.png width="150" height="150" align="center" alt="Johnny"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Dean_Ambrose_pro--43a71c57313af2f68925d84b993880fc.png width="150" height="150" align="center" alt="Ciampa"></td>
+    <td><h2 align="center">The Shield</h2></td>
+    <td><h3 align="center">Seth Rollins</h3>
+        <h3 align="center">Dean Ambrose</h3></td>
+    <td><h3 align="center">20 weeks</h3></td>
+    <td><h3 align="center">No Mercy V</h3></td>
+    <td><h4 align="center">This was a 30-Minute Ironman Torndao Tag Team Match in which The Shield won 2-1.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">13</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Scott_Dawson_pro--a8dc07702b7e3e31dfcaf9264deebd7a.png width="150" height="150" align="center" alt="Harper"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Dash_Wilder_pro--9492f7c12f1232b3f3525d95cdd28f5d.png width="150" height="150" align="center" alt="Rowan"></td>
+    <td><h2 align="center">The Revival</h2></td>
+    <td><h3 align="center">Scott Dawson</h3>
+        <h3 align="center">Dash Wilder</h3></td>
+    <td><h3 align="center">1+ weeks</h3></td>
+    <td><h3 align="center">SmackdownMania V</h3></td>
+    <td><h4 align="center">Wilder pinned Rollins after a Shatter Machine.</h4></td>
+  </tr>
+</table>
+</body>
+</html>

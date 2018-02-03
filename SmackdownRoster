@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Smackdown Roster</title>
+  <link rel="stylesheet" href="main.css">
+
+<style>
+  body {
+    background-image: url(https://image.freepik.com/free-photo/new-wood-texture-background_1318-43.jpg);
+  }
+  .header {
+    color: blue;
+  }
+</style>
+</head>
+<body>
+
+  <div class="nav">
+    <header align=center>
+      <h1>Justin's Universe Mode</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a>Roster</a>
+          <ul>
+            <li><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawRoster>Raw Roster</a></li>
+            <li><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SmackdownRoster>Smackdown Roster</a></li>
+            <li><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/NXTRoster>NXT Roster</a></li>
+          </ul>
+        </li>
+        <li><a>PPV Results</a>
+          <ul>
+            <li><a>Year 1</a></li>
+            <li><a>Year 2</a></li>
+            <li><a>Year 3</a></li>
+            <li><a>Year 4</a></li>
+            <li><a>Year 5</a></li>
+          </ul>
+        </li>
+        <li><a>Title History</a>
+          <ul>
+            <li><a>Raw Champions</a></li>
+            <li><a>Smackdown Champions</a></li>
+            <li><a>NXT Champions</a></li>
+          </ul>
+        </li>
+        <li><a>Superstars Data</a>
+          <ul>
+            <li><a>Male Superstars</a></li>
+            <li><a>Female Superstars</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/WWE_SmackDown_Live_2016_logo.png" alt="SDLive" width=100%>
+<table align="center" border="5">
+  <tr>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/04/Aleister_pro--25d14c875c4e4b89b9934196b637662c.png width="120" height="120" alt="Aleister"><h4 align="center">Aleister Black</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Alexander_Wolfe_Final--013f47b644eb2c7f483158fa20feecc5.png width="120" height="120" alt="Alexander"><h4 align="center">Alexander Wolfe</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Bray_Wyatt_pro--42752b09809307e7d69c8edf8c352a83.png width="120" height="120" alt="Bray"><h4 align="center">Bray Wyatt</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Cesaro_pro--4edffc727f2995c120713699a5847fb0.png width="120" height="120" alt="Cesaro"><h4 align="center">Cesaro</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Curt_Hawkins_pro--f977a846c5e603d76ba514d0ff6c3012.png width="120" height="120" alt="Curt"><h4 align="center">Curt Hawkins</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/rd-talent/Profile/Darren_Young_pro.png width="120" height="120" alt="Darren"><h4 align="center">Darren Young</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Dash_Wilder_pro--9492f7c12f1232b3f3525d95cdd28f5d.png width="120" height="120" alt="Dash"><h4 align="center">Dash Wilder</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Dean_Ambrose_pro--43a71c57313af2f68925d84b993880fc.png width="120" height="120" alt="Dean"><h4 align="center">Dean Ambrose</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/04/DrewMcIntyre_Final--68a42f18ea42f25be7eef444b203f253.png width="120" height="120" alt="Drew"><h4 align="center">Drew McIntyre</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/10/Eric_Young_Final--5ba65a02e525f39809dd0b5d7be1cbde.png width="120" height="120" alt="Eric"><h4 align="center">Eric Young</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Fandango_pro--24cce2de422e93100e9af31ce56797d7.png width="120" height="120" alt="Fandango"><h4 align="center">Fandango</h4></td>
+  </tr>
+
+  <tr>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Jack_Gallagher_pro--6dd1b033e3f3d11d0b829e550c44c5f9.png width="120" height="120" alt="Jack"><h4 align="center">Jack Gallagher</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Jeff_Hardy_Pro--0d12add9f40088d7c36eb0a06f95a8c6.png width="120" height="120" alt="Jeff"><h4 align="center">Jeff Hardy</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/03/Jinder_Mahal_pro--7f1296e3e780baa692322ad63da88c03.png width="120" height="120" alt="Jinder"><h4 align="center">Jinder Mahal</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/12/Kalisto_Pro--29c7ac74765f14000dc4467085f0d8e8.png width="120" height="120" alt="Kalisto"><h4 align="center">Kalisto</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/2016/04/Karl_Anderson_pro--8a28ec0c158aa400334fdd8c73c23f62.png width="120" height="120" alt="Karl"><h4 align="center">Karl Anderson</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/02/Killian_Dain_pro--5fe2585ab1778753cd1016acbc417a72.png width="120" height="120" alt="Killian"><h4 align="center">Killian Dain</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/05/Dylan_Miley_pro--8c324d8b85e9adaa2ed37798d21a07b4.png width="120" height="120" alt="Lars"><h4 align="center">Lars Sullivan</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/2016/04/Luke_Gallows_pro--a40c9d97c1b33abaac66be1473a7a020.png width="120" height="120" alt="Luke"><h4 align="center">Luke Gallows</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Matt_Hardy_Pro--ea7fa1803f07ad42a90c110bf32d1477.png width="120" height="120" alt="Matt"><h4 align="center">Matt Hardy</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Mojo_Rawley_pro--42a76603c6f356e8d20d72b054c343b6.png width="120" height="120" alt="Mojo"><h4 align="center">Mojo Rawley</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/09/R_Truth_pro_updated--8abe5bff00f38f82c04f20abfcf3a38a.png width="120" height="120" alt="R-Truth"><h4 align="center">R-Truth</h4></td>
+  </tr>
+
+  <tr>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Samoa_Joe_Pro--100e83aad131b03f583a88873aed71d8.png width="120" height="120" alt="Samoa"><h4 align="center">Samoa Joe</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Scott_Dawson_pro--a8dc07702b7e3e31dfcaf9264deebd7a.png width="120" height="120" alt="Scott"><h4 align="center">Scott Dawson</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/events/2016/06/Seth_Rollins_pro--5c6fc9009ab96f46ced1e2524b9e9dc8.png width="120" height="120" alt="Seth"><h4 align="center">Seth Rollins</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Sheamus_pro--5033706134d1e9f10a6c873e961c0f4d.png width="120" height="120" alt="Sheamus"><h4 align="center">Sheamus</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Shinsuke_Nakamura_pro--e0791daa657f5d0773fbb8e895c258f7.png width="120" height="120" alt="Shinsuke"><h5 align="center">Shinsuke Nakamura</h5></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Sin_Cara_pro--252fac5a0e94ea314c469d036bb43252.png width="120" height="120" alt="Sin"><h4 align="center">Sin Cara</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/TylerBate_pro--d1add613ff182de0cb93a4e4a6d80e76.png width="120" height="120" alt="Bate"><h4 align="center">Tyler Bate</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/Tyler_Breeze_pro--21e76f59d210335c37233ae6fc69e5ae.png width="120" height="120" alt="Breeze"><h4 align="center">Tyler Breeze</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/rd-talent/Profile/Tyson_Kidd_pro.png width="120" height="120" alt="Tyson"><h4 align="center">Tyson Kidd</h4></td>
+    <td><img src=https://i.imgur.com/bWabDL5.jpg width="120" height="120" alt="Will"><h4 align="center">Will Ospreay</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Zack_Ryder_pro--412a0605c16177bd2d36b89da2cefa16.png width="120" height="120" alt="Zack"><h4 align="center">Zack Ryder</h4></td>
+  </tr>
+
+  <tr>
+    <td><img src=https://vignette.wikia.nocookie.net/prowrestling/images/4/47/WWEAlexaBliss.png width="120" height="120" alt="Alexa"><h4 align="center">Alexa Bliss</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/07/Aliyah_pro--25569c749730aeaf2ea1f10c80ad1972.png width="120" height="120" alt="Aliyah"><h4 align="center">Aliyah</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Becky_Lynch_pro--5d0ed351280272fd9f9e17cf7e3c8f53.png width="120" height="120" alt="Becky"><h4 align="center">Becky Lynch</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/09/Billie_Kay_pro--ac9355c2a7c60d769d4e86953b934a5e.png width="120" height="120" alt="Billie"><h4 align="center">Billie Kay</h4></td>
+    <td><img src=https://vignette.wikia.nocookie.net/prowrestling/images/d/d8/WWECharlotteFlairV3.png width="120" height="120" alt="Charlotte"><h4 align="center">Charlotte Flair</h4></td>
+    <td><img src=https://i.imgur.com/WLrhvim.jpg width="120" height="120" alt="Dakota"><h4 align="center">Dakota Kai</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/12/Mandy_Rose_pro--bec233ec16980ae32063c7b3b9ac9d6d.png width="120" height="120" alt="Mandy"><h4 align="center">Mandy Rose</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Mickie_James_pro--54552df4ae764295274c22c21bdba340.png width="120" height="120" alt="Mickie"><h4 align="center">Mickie James</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/03/Natalya_pro--1793c5ef63cc6b6f625cbe042b7640b2.png width="120" height="120" alt="Natalya"><h4 align="center">Natalya</h4></td>
+    <td><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/12/Paige_pro--9737b55e94280e33c9e978f9acc38dc3.png width="120" height="120" alt="Paige"><h4 align="center">Paige</h4></td>
+    <td><img src=https://i.imgur.com/dMf7NI4.jpg width="120" height="120" alt="Toni"><h4 align="center">Toni Storm</h4></td>
+  </tr>
+</table>
+</html>

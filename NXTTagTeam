@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>NXT Tag Team Championship History</title>
+  <link rel="stylesheet" href="main.css">
+
+</head>
+
+<body>
+<img src="https://img00.deviantart.net/be90/i/2017/093/8/e/nxt_tag_team_championship_2017_png_by_ambriegnsasylum16-db4l6by.png" alt="NXTTag" width=100%>
+<br>
+<table align=center width=50% border=5>
+  <tr>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SmackdownTitle>World</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/Intercontinental>Intercontinental</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SDTagTeams>Tag Team</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SDWomen>Women's</a></td>
+  </tr>
+</table>
+</br>
+
+<table align="center" width="100%" border="10">
+  <tr>
+    <td align="center" width=10>No.</td>
+    <td align="center" width=450>Wrestler's Image</td>
+    <td align="center" width=150>Team Name</td>
+    <td align="center" width=150>Wrestler's Name</td>
+    <td align="center" width=150>Weeks Held</td>
+    <td align="center" width=150>Event</td>
+    <td align="center">Notes</td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">1</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Scott_Dawson_pro--a8dc07702b7e3e31dfcaf9264deebd7a.png width="150" height="150" align="center" alt="Harper"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Dash_Wilder_pro--9492f7c12f1232b3f3525d95cdd28f5d.png width="150" height="150" align="center" alt="Rowan"></td>
+    <td><h2 align="center">The Revival</h2></td>
+    <td><h3 align="center">Scott Dawson</h3>
+        <h3 align="center">Dash Wilder</h3></td>
+    <td><h3 align="center">85 weeks</h3></td>
+    <td><h3 align="center">NXT Episode 1</h3></td>
+    <td><h4 align="center">The Revival defeated TM-61 to become the inaugural champions. Dawson pinned Miller after a Shatter Machine.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">2</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/2016/05/Johnny_Gargano_pro--ef0c8527bb0e15f73d92c4402fc07cf4.png width=150 height=150 align="center" alt="Johnny"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/2016/05/Tommaso_pro--e054957149fcd85b6d2d221d8eb99c33.png width="150" height="150" align="center" alt="Tommaso"></td>
+    <td><h2 align="center">#DIY</h2></td>
+    <td><h3 align="center">Johnny Gargano</h3>
+        <h3 align="center">Tommaso Ciampa</h3></td>
+    <td><h3 align="center">35 weeks</h3></td>
+    <td><h3 align="center">NXT Takeover: Las Vegas II</h3></td>
+    <td><h4 align="center">Gargano pinned Wilder after a Meeting in the Middle.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">3</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/09/Noam_Dar_PRO--c93948227ce0d861e77a9dd9ffda0348.png width=150 height=150 align="center" alt="Noam"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/09/Kevin_Owens_pro_updated--68daf5928a25e4c0a2b5337238078488.png width="150" height="150" align="center" alt="Kevin"></td>
+    <td><h2 align="center">NoVin</h2></td>
+    <td><h3 align="center">Noam Dar</h3>
+        <h3 align="center">Kevin Owens</h3></td>
+    <td><h3 align="center">33 weeks</h3></td>
+    <td><h3 align="center">NXT Takeover: Toronto III</h3></td>
+    <td><h4 align="center">Owens pinned Gargano after a Pop-Up Powerbomb.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">4</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/07/Nick_Miller_pro--9594b0a6e62e9edf9b65c764f03f52b5.png width=150 height=150 align="center" alt="Nick"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/07/Shane_Turner_pro--44977938d5115dd94a61dfbc8d46f537.png width="150" height="150" align="center" alt="Shane"></td>
+    <td><h2 align="center">TM-61</h2></td>
+    <td><h3 align="center">Nick Miller</h3>
+        <h3 align="center">Shane Thorne</h3></td>
+    <td><h3 align="center">37 weeks</h3></td>
+    <td><h3 align="center">NXTMania III</h3></td>
+    <td><h4 align="center">Thorne pinned Owens after a Thunder Valley Driver.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">5</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Chad_Gable_pro--095b27406ed4c6ef90d038e0fa288cb2.png width="150" height="150" align="center" alt="Harper"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Jason_Jordan_pro--e107e8a45ff2088507f252740189ae40.png width="150" height="150" align="center" alt="Jason"></td>
+    <td><h2 align="center">American Alpha</h2></td>
+    <td><h3 align="center">Chad Gable</h3>
+        <h3 align="center">Jason Jordan</h3></td>
+    <td><h3 align="center">29 weeks</h3></td>
+    <td><h3 align="center">NXT Takeover: Unstoppable IV</h3></td>
+    <td><h4 align="center">Jordan pinned Miller after a Grand Amplitude.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">6</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/09/Akam_pro--fa28a719cff7821dc7225207d7c2c060.png width="150" height="150" align="center" alt="Akam"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/09/Rezar_pro--1f27dfc4214a7531a253b564c727fc82.png width="150" height="150" align="center" alt="Rezar"></td>
+    <td><h2 align="center">Authors of Pain</h2></td>
+    <td><h3 align="center">Akam</h3>
+        <h3 align="center">Rezar</h3></td>
+    <td><h3 align="center">40 weeks</h3></td>
+    <td><h3 align="center">NXT Takeover: The End V</h3></td>
+    <td><h4 align="center">Rezar pinned Gable after The Last Chapter.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">7</h1></td>
+    <td height=150 align="center"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/10/Jason_Jordan_pro--e107e8a45ff2088507f252740189ae40.png width="150" height="150" align="center" alt="Jason"><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/05/Velveteen_Dream_pro--47cca4f63f2dccdc31d8f94200d64862.png width="150" height="150" align="center" alt="Velveteen"></td>
+    <td><h2 align="center">Alpha Dream</h2></td>
+    <td><h3 align="center">Jason Jordan</h3>
+        <h3 align="center">The Velveteen Dream</h3></td>
+    <td><h3 align="center">1+ weeks</h3></td>
+    <td><h3 align="center">NXTMania V</h3></td>
+    <td><h4 align="center">Jordan pinned Akam after a German Suplex from Jordan and Purple Rainmaker from Dream.</h4></td>
+  </tr>
+</table>
+</body>
+</html>

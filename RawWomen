@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Raw Women's Championship History</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+<img src="https://upload.wikimedia.org/wikipedia/en/f/fa/WWE_Womens_2016_Championship.png" alt="RawWomens" width=100%>
+<br>
+<table align=center width=50% border=5>
+  <tr>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawTitle>Undisputed</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/USTitle>United States</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawTagTeam>Tag Team</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawWomen>Women's</a></td>
+  </tr>
+</table>
+</br>
+
+<table align="center" width="80%" border="10">
+  <tr>
+    <td align="center">No.</td>
+    <td align="center" width=150>Wrestler's Image</td>
+    <td align="center" width=150>Wrestler's Name</td>
+    <td align="center" width=150>Weeks Held</td>
+    <td align="center" width=150>Event</td>
+    <td align="center">Notes</td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">1</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/d/d8/WWECharlotteFlairV3.png width="150" height="150" align="center" alt="Charlotte"></td>
+    <td><h2 align="center">Charlotte Flair</h2></td>
+    <td><h3 align="center">14 weeks</h3></td>
+    <td><h3 align="center">Raw Episode 1</h3></td>
+    <td><h4 align="center">Defeated Bayley to become the inaugural champion. Flair made Bayley tapped with the Figure 8.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">2</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Sasha_Banks_pro--b6fb3e1ae2db3e5ffec072dad62be750.png width="150" height="150" align="center" alt="Sasha"></td>
+    <td><h2 align="center">Sasha Banks</h2></td>
+    <td><h3 align="center">36 weeks</h3></td>
+    <td><h3 align="center">Summerslam I</h3></td>
+    <td><h4 align="center">Banks made Flair tapped with the Bank Statement.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">3</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/12/Bayley_pro--65551cef4c54f46b3818bde41b4f9f09.png width="150" height="150" align="center" alt="Bayley"></td>
+    <td><h2 align="center">Bayley</h2></td>
+    <td><h3 align="center">36 weeks</h3></td>
+    <td><h3 align="center">RawMania I</h3></td>
+    <td><h4 align="center">This was a Last Woman Standing Match. Bayley won after a Bayley-to-Belly through the announce table.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">4</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Nia_Jax_pro--a8b141a71b2a1d5fad34dd551de540d4.png width="150" height="150" align="center" alt="Nia"></td>
+    <td><h2 align="center">Nia Jax</h2></td>
+    <td><h3 align="center">16 weeks</h3></td>
+    <td><h3 align="center">Survivor Series II</h3></td>
+    <td><h4 align="center">Jax pinned Bayley after a Samoan Drop followed by a Leg Drop.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">5</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/rd-talent/Profile/Summer_Rae_pro.png width="150" height="150" align="center" alt="Summer"></td>
+    <td><h2 align="center">Summer Rae</h2></td>
+    <td><h3 align="center">12 weeks</h3></td>
+    <td><h3 align="center">RawMania II</h3></td>
+    <td><h4 align="center">Rae pinned Jax after a Summer Crush.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">6</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/4/47/WWEAlexaBliss.png width="150" height="150" align="center" alt="Alexa"></td>
+    <td><h2 align="center">Alexa Bliss</h2></td>
+    <td><h3 align="center">31 weeks</h3></td>
+    <td><h3 align="center">Extreme Rules III</h3></td>
+    <td><h4 align="center">This was an Extreme Rules Match. Bliss pinned Rae after a Twisted Bliss.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">7</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/d/dc/Ember_Moon_pro--d6287fec2e1e94690d6830120d2209a6.png/revision/latest/scale-to-width-down/156?cb=20171120200425 width="150" height="150" align="center" alt="Ember"></td>
+    <td><h2 align="center">Ember Moon</h2></td>
+    <td><h3 align="center">12 weeks</h3></td>
+    <td><h3 align="center">RawMania III</h3></td>
+    <td><h4 align="center">Moon pinned Bliss after an Eclipse.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">8</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/03/Natalya_pro--1793c5ef63cc6b6f625cbe042b7640b2.png width="150" height="150" align="center" alt="Natalya"></td>
+    <td><h2 align="center">Natalya</h2></td>
+    <td><h3 align="center">7 weeks</h3></td>
+    <td><h3 align="center">Extreme Rules IV</h3></td>
+    <td><h4 align="center">Natalya made Moon tapped with the Sharpshooter.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">9</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/d/dc/Ember_Moon_pro--d6287fec2e1e94690d6830120d2209a6.png/revision/latest/scale-to-width-down/156?cb=20171120200425 width="150" height="150" align="center" alt="Ember"></td>
+    <td><h2 align="center">Ember Moon</h2></td>
+    <td><h3 align="center">35 weeks</h3></td>
+    <td><h3 align="center">Battleground IV</h3></td>
+    <td><h4 align="center">This was a Triple Threat Match involving Natalya and Bayley. Moon pinned Natalya after an Eclipse.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">10</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/09/Asuka_pro--f0658a98c83e5100a70688048ba1be18.png width="150" height="150" align="center" alt="Asuka"></td>
+    <td><h2 align="center">Asuka</h2></td>
+    <td><h3 align="center">53 weeks</h3></td>
+    <td><h3 align="center">RawMania IV</h3></td>
+    <td><h4 align="center">This was a Fatal 4-Way Ladder Match involving Mandy Rose, Sasha Banks and Ember Moon. Asuka won by retrieving the title.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">11</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/09/Kairi_Sane_pro--27cbd15dbf970a17d9769e24966b47a5.png width="150" height="150" align="center" alt="Kairi"></td>
+    <td><h2 align="center">Kairi Sane</h2></td>
+    <td><h3 align="center">1+ Week</h3></td>
+    <td><h3 align="center">RawMania V</h3></td>
+    <td><h4 align="center">Sane pinned Asuka after an InSane Elbow.</h4></td>
+  </tr>
+</table>
+</body>
+</html>

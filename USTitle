@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>US Championship History</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+<img src="https://www.wwe.com/f/styles/og_image/public/championship/Belt/WWE_US_Championship.png" alt="USTitle" width=100%>
+<br>
+<table align=center width=50% border=5>
+  <tr>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawTitle>Undisputed</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/USTitle>United States</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawTagTeam>Tag Team</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/RawWomen>Women's</a></td>
+  </tr>
+</table>
+</br>
+
+<table align="center" width="80%" border="10">
+  <tr>
+    <td align="center">No.</td>
+    <td align="center" width=150>Wrestler's Image</td>
+    <td align="center" width=150>Wrestler's Name</td>
+    <td align="center" width=150>Weeks Held</td>
+    <td align="center" width=150>Event</td>
+    <td align="center">Notes</td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">1</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Rusev_pro--96587177a1b94dd1407d4ae2309d754f.png width=150 height=150 align="center" alt="Rusev"></td>
+    <td><h2 align="center">Rusev</h2></td>
+    <td><h3 align="center">3 weeks</h3></td>
+    <td><h3 align="center">Raw Episode 1</h3></td>
+    <td><h4 align="center">Defeated Finn Balor to become the inaugural champion. Rusev made Balor tapped after the Accolade.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">2</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/12/Sami_Zayn_pro--2de851c5d050f196746758a5dc9af7f3.png width=150 height=150 align="center" alt="Sami"></td>
+    <td><h2 align="center">Sami Zayn</h2></td>
+    <td><h3 align="center">63 weeks</h3></td>
+    <td><h3 align="center">Extreme Rules I</h3></td>
+    <td><h4 align="center">This was an Extreme Rules Match. Zayn pinned Rusev after a Helluva Kick.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">3</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Samoa_Joe_Pro--100e83aad131b03f583a88873aed71d8.png width=150 height=150 align="center" alt="Samoa"></td>
+    <td><h2 align="center">Samoa Joe</h2></td>
+    <td><h3 align="center">41 weeks</h3></td>
+    <td><h3 align="center">Summerslam II</h3></td>
+    <td><h4 align="center">This was a Triple Threat Match involving Daniel Bryan and Sami Zayn. Joe pinned Zayn after a Muscle Buster.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">4</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/8/8d/2_Smackdown_-_AJ_Styles.png width=150 height=150 align="center" alt="Roman"></td>
+    <td><h2 align="center">AJ Styles</h2></td>
+    <td><h3 align="center">14 weeks</h3></td>
+    <td><h3 align="center">Payback III</h3></td>
+    <td><h4 align="center">Styles made Samoa Joe tapped after a Calf Crusher.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">5</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Samoa_Joe_Pro--100e83aad131b03f583a88873aed71d8.png width=150 height=150 align="center" alt="Samoa"></td>
+    <td><h2 align="center">Samoa Joe</h2></td>
+    <td><h3 align="center">12 weeks</h3></td>
+    <td><h3 align="center">Battleground III</h3></td>
+    <td><h4 align="center">Joe was accompanied by Finn Balor, Luke Gallows and Karl Anderson. Joe made Styles tapped after a Coquina Clutch.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">6</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/11/Dolph_Ziggler_pro--63be2baae9f227740c8162bf48c76e72.png width=150 height=150 align="center" alt="Dolph"></td>
+    <td><h2 align="center">Dolph Ziggler</h2></td>
+    <td><h3 align="center">13 weeks</h3></td>
+    <td><h3 align="center">Fastlane III</h3></td>
+    <td><h4 align="center">Ziggler pinned Joe after a Zig Zag.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">7</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/01/The_Miz_pro--1541544bc72c7e050c0c05e10bb6bd3b.png width=150 height=150 align="center" alt="Miz"></td>
+    <td><h2 align="center">The Miz</h2></td>
+    <td><h3 align="center">13 weeks</h3></td>
+    <td><h3 align="center">Royal Rumble III</h3></td>
+    <td><h4 align="center">Miz pinned Ziggler after a Skull Crushing Finale.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">8</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/11/John_Cena_pro--213a694620b808a9c24757af5ff334ea.png width=150 height=150 align="center" alt="John"></td>
+    <td><h2 align="center">John Cena</h2></td>
+    <td><h3 align="center">27 weeks</h3></td>
+    <td><h3 align="center">Extreme Rules IV</h3></td>
+    <td><h4 align="center">This was an Extreme Rules Match. Cena pinned Miz after an Attitude Adjustment.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">9</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/5/5c/WWERomanReigns.png/revision/latest/scale-to-width-down/156?cb=20170820213743 width=150 height=150 align="center" alt="Roman"></td>
+    <td><h2 align="center">Roman Reigns</h2></td>
+    <td><h3 align="center">6 weeks</h3></td>
+    <td><h3 align="center">Fastlane IV</h3></td>
+    <td><h4 align="center">This was a Winner Takes All Match, in which Reigns defended the WWE Undisputed Championship. Reigns pinned Cena after a Spear.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">10</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2016/09/Cedric_Alexander_pro--892d875a23e05d27573b06de904a25b3.png width=150 height=150 align="center" alt="Cedric"></td>
+    <td><h2 align="center">Cedric Alecander</h2></td>
+    <td><h3 align="center">15 weeks</h3></td>
+    <td><h3 align="center">Roadblock IV</h3></td>
+    <td><h4 align="center">Alexander pinned Reigns after a Lumbar Check.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">11</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Rusev_pro--96587177a1b94dd1407d4ae2309d754f.png  width=150 height=150 align="center" alt="Rusev"></td>
+    <td><h2 align="center">Rusev</h2></td>
+    <td><h3 align="center">44 weeks</h3></td>
+    <td><h3 align="center">RawMania IV</h3></td>
+    <td><h4 align="center">Rusev made Alexander tapped after The Accolade.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">12</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Xavier_Woods_pro--9794c202e5591732f7a2ba8c97460ade.png  width=150 height=150 align="center" alt="Xavier"></td>
+    <td><h2 align="center">Xavier Woods</h2></td>
+    <td><h3 align="center">9+ weeks</h3></td>
+    <td><h3 align="center">Royal Rumble V</h3></td>
+    <td><h4 align="center">Woods pinned Rusev after a Shining Wizard.</h4></td>
+  </tr>
+</table>
+</body>
+</html>

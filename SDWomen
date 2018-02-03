@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Smackdown Women's Championship History</title>
+  <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+<img src="https://vignette.wikia.nocookie.net/wrestlepedia/images/3/3b/WWE_SmackDown_Womens_Championship.png/revision/latest?cb=20171107060218" alt="SDWomen" width=100%>
+<br>
+<table align=center width=50% border=5>
+  <tr>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SmackdownTitle>World</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/Intercontinental>Intercontinental</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SDTagTeams>Tag Team</a></td>
+    <td align="center"><a href=file:///Users/justinlindo/Desktop/WWE%20SITE%20FILES/SDWomen>Women's</a></td>
+  </tr>
+</table>
+</br>
+
+<table align="center" width="80%" border="10">
+  <tr>
+    <td align="center">No.</td>
+    <td align="center" width=150>Wrestler's Image</td>
+    <td align="center" width=150>Wrestler's Name</td>
+    <td align="center" width=150>Weeks Held</td>
+    <td align="center" width=150>Event</td>
+    <td align="center">Notes</td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">1</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Becky_Lynch_pro--5d0ed351280272fd9f9e17cf7e3c8f53.png width="150" height="150" align="center" alt="Becky"></td>
+    <td><h2 align="center">Becky Lynch</h2></td>
+    <td><h3 align="center">24 Weeks</h3></td>
+    <td><h3 align="center">Smackdown Episode 1</h3></td>
+    <td><h4 align="center">Lynch defeated Natalya to become the inaugural champion. Lynch made Natalya tap with the DisarmHer.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">2</h1></td>
+    <td height=150><img src=https://vignette.wikia.nocookie.net/prowrestling/images/4/47/WWEAlexaBliss.png width="150" height="150" align="center" alt="Alexa"></td>
+    <td><h2 align="center">Alexa Bliss</h2></td>
+    <td><h3 align="center">27 Weeks</h3></td>
+    <td><h3 align="center">Backlash I</h3></td>
+    <td><h4 align="center">This was a Falls Count Anywhere Match. Bliss pinned Lynch after a Twisted Bliss.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">3</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/03/Nikki_Bella_pro--fcb3a6711895171d2a50d4d23690321c.png width="150" height="150" align="center" alt="Nikki"></td>
+    <td><h2 align="center">Nikki Bella</h2></td>
+    <td><h3 align="center">8 Weeks</h3></td>
+    <td><h3 align="center">SmackdownMania I</h3></td>
+    <td><h4 align="center">This was an Elimination Chamber Match involving Carmella, Brie Bella, Tamina, Becky Lynch and Alexa Bliss. Bella eliminated Carmella last after a Rack Attack 2.0.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">4</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/05/Emma_pro--c1b6a844c2e868bb53c08407e6a04ddf.png width="150" height="150" align="center" alt="Emma"></td>
+    <td><h2 align="center">Emma</h2></td>
+    <td><h3 align="center">23 Weeks</h3></td>
+    <td><h3 align="center">Payback II</h3></td>
+    <td><h4 align="center">This was a Fatal Four Way Match involving Naomi, Nikki Bella and Billie Kay. Emma made Naomi tap with the Emma Lock.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">5</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/rd-talent/Profile/Trish_Stratus_pro.png width="150" height="150" align="center" alt="Trish"></td>
+    <td><h2 align="center">Trish Stratus</h2></td>
+    <td><h3 align="center">21 Weeks</h3></td>
+    <td><h3 align="center">Survivor Series III</h3></td>
+    <td><h4 align="center">Stratus pinned Emma after a Chick Kick.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">6</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/03/Natalya_pro--1793c5ef63cc6b6f625cbe042b7640b2.png width="150" height="150" align="center" alt="Bray"></td>
+    <td><h2 align="center">Natalya</h2></td>
+    <td><h3 align="center">21 Weeks</h3></td>
+    <td><h3 align="center">SmackdownMania III</h3></td>
+    <td><h4 align="center">Natalya made stratus tap with the Sharpshooter.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">7</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/09/Asuka_pro--f0658a98c83e5100a70688048ba1be18.png width="150" height="150" align="center" alt="CM"></td>
+    <td><h2 align="center">Asuka</h2></td>
+    <td><h3 align="center">17 Weeks</h3></td>
+    <td><h3 align="center">Summerslam IV</h3></td>
+    <td><h4 align="center">Asuka made Natalya tap with the Asuka Lock.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">8</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/06/Peyton_Royce_pro--5a4c12fa4fc547de168353301c5fe45f.png width="150" height="150" align="center" alt="Shinsuke"></td>
+    <td><h2 align="center">Peyton Royce</h2></td>
+    <td><h3 align="center">48 Weeks</h3></td>
+    <td><h3 align="center">TLC IV</h3></td>
+    <td><h4 align="center">This was a Fatal Four Way Ladder Match involving Naomi, Natalya and Asuka. Royce won after retreiving the title.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">9</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Becky_Lynch_pro--5d0ed351280272fd9f9e17cf7e3c8f53.png width="150" height="150" align="center" alt="Samoa"></td>
+    <td><h2 align="center">Becky Lynch</h2></td>
+    <td><h3 align="center">43 Weeks</h3></td>
+    <td><h3 align="center">Bad Blood IV</h3></td>
+    <td><h4 align="center">This was a Triple Threat Match involving Peyton Royce and Alexa Bliss. Lynch made Bliss tap with the DisarmHer.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">10</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/03/Natalya_pro--1793c5ef63cc6b6f625cbe042b7640b2.png width="150" height="150" align="center" alt="Drew"></td>
+    <td><h2 align="center">Natalya</h2></td>
+    <td><h3 align="center">5 Weeks</h3></td>
+    <td><h3 align="center">Roadblock V</h3></td>
+    <td><h4 align="center">This was a Triple Threat Match involving Becky Lynch and Charlotte Flair. Natalya pinned Lynch after a Natural Selection from Flair.</h4></td>
+  </tr>
+
+  <tr>
+    <td><h1 align="center">11</h1></td>
+    <td height=150><img src=http://www.wwe.com/f/styles/wwe_1_1_540__composite/public/all/2017/08/Becky_Lynch_pro--5d0ed351280272fd9f9e17cf7e3c8f53.png width="150" height="150" align="center" alt="Samoa"></td>
+    <td><h2 align="center">Becky Lynch</h2></td>
+    <td><h3 align="center">20+ Weeks</h3></td>
+    <td><h3 align="center">No Mercy V</h3></td>
+    <td><h4 align="center">This was a No Disqualification Match. Lynch made Natalya tap when her arm was trapped within a chair and locked in a DisarmHer</h4></td>
+  </tr>
+</table>
+</body>
+</html>
